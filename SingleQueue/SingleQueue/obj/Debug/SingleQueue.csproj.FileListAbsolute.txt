@@ -1,0 +1,11 @@
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\bin\Debug\SingleQueue.exe.config
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\bin\Debug\SingleQueue.exe
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\bin\Debug\SingleQueue.pdb
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\obj\Debug\SingleQueue.Properties.Resources.resources
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\obj\Debug\SingleQueue.csproj.GenerateResource.cache
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\obj\Debug\SingleQueue.csproj.CoreCompileInputs.cache
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\obj\Debug\SingleQueue.exe
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\obj\Debug\SingleQueue.pdb
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\obj\Debug\SingleQueue.csproj.AssemblyReference.cache
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\obj\Debug\SingleQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\grobe\source\repos\SingleQueue\SingleQueue\obj\Debug\SingleQueue.SingleQueue.resources
